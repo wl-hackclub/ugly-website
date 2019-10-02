@@ -1,0 +1,13 @@
+.text {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  line-height: 0.5;
+}
+
+html,
+body {
+  height: 100%;
+}
